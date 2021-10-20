@@ -1,0 +1,6 @@
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectClasses\bin\Debug\KomodoProjectClasses.dll
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectClasses\bin\Debug\KomodoProjectClasses.pdb
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectClasses\obj\Debug\KomodoProjectClasses.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectClasses\obj\Debug\KomodoProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectClasses\obj\Debug\KomodoProjectClasses.dll
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectClasses\obj\Debug\KomodoProjectClasses.pdb

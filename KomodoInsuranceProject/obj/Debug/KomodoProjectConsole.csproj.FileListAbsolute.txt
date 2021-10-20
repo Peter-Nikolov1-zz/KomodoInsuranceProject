@@ -1,0 +1,12 @@
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoProjectConsole.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoInsuranceProject.exe.config
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoInsuranceProject.exe
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoInsuranceProject.pdb
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoInsuranceProject.exe
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoInsuranceProject.pdb
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectClasses.dll
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectRepo.dll
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectClasses.pdb
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectRepo.pdb
+C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoProjectConsole.csproj.CopyComplete

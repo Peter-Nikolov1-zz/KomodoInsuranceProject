@@ -8,7 +8,9 @@ namespace KomodoProjectRepo
 {
     //This is the DevTeam method repository
         //Make sure to include CRUD - Create Read Update Delete
+        //Contain Team Members (Developers) along with team name and team ID.
     public class DevTeamRepo
     {
+
     }
 }

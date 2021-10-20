@@ -50,5 +50,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KomodoProjectClasses\KomodoProjectClasses.csproj">
+      <Project>{9acfa2eb-0a9b-43e4-8b41-a6af4c2d50b5}</Project>
+      <Name>KomodoProjectClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KomodoProjectRepo\KomodoProjectRepo.csproj">
+      <Project>{557e1c56-c1ec-4963-94c7-17c53622047a}</Project>
+      <Name>KomodoProjectRepo</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

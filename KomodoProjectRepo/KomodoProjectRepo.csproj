@@ -45,5 +45,11 @@
     <Compile Include="DevTeamRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KomodoProjectClasses\KomodoProjectClasses.csproj">
+      <Project>{9ACFA2EB-0A9B-43E4-8B41-A6AF4C2D50B5}</Project>
+      <Name>KomodoProjectClasses</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
