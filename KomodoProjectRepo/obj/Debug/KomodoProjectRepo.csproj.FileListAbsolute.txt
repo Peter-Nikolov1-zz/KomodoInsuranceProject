@@ -4,6 +4,5 @@ C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\bin\Debug\K
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\bin\Debug\KomodoProjectClasses.pdb
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\obj\Debug\KomodoProjectRepo.csproj.AssemblyReference.cache
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\obj\Debug\KomodoProjectRepo.csproj.CoreCompileInputs.cache
-C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\obj\Debug\KomodoProjectRepo.csproj.CopyComplete
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\obj\Debug\KomodoProjectRepo.dll
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoProjectRepo\obj\Debug\KomodoProjectRepo.pdb

@@ -11,25 +11,45 @@ namespace KomodoProjectRepo
     //Make sure to include CRUD - Create Read Update Delete
     public class DeveloperRepo
     {
-        List<Developer> listOfDevelopers = new List<Developer>();
+        protected readonly List<Developer> _listOfDevelopers = new List<Developer>();
 
-        public void AddDeveloper()
+        public void AddDeveloper(Developer developer)
         {
-
+            _listOfDevelopers.Add(developer);
         }
 
-        public void CurrentDevelopers()
+        public List<Developer> CurrentDevelopers()
         {
-
+            return _listOfDevelopers;
         }
 
-        public void ModifyDevelopers()
+        public Developer GetDeveloperByID(int id)
         {
-
+            foreach (Developer developer in _listOfDevelopers)
+            {
+                if (developer.ID == id)
+                {
+                    return developer;
+                }
+            }
+            return null;
         }
-        public void RemoveDeveloper()
-        {
 
+        public bool ModifyDevelopers(int uniqueID, Developer developer)
+        {
+            Developer developer1 = GetDeveloperByID(uniqueID);
+            if (developer1 != null)
+            {
+                developer1.Name = developer.Name;
+                developer1.Pluralsight = developer.Pluralsight;
+                return true;
+            }
+            return false;
+        }
+        public bool RemoveDeveloper(Developer developer)
+        {
+            bool removeDeveloper = _listOfDevelopers.Remove(developer);
+            return removeDeveloper;
         }
     }
 }

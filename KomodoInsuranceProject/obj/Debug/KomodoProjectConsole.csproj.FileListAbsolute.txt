@@ -9,4 +9,3 @@ C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\De
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectRepo.dll
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectClasses.pdb
 C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\bin\Debug\KomodoProjectRepo.pdb
-C:\Users\Peter\source\repos\KomodoInsuranceProject\KomodoInsuranceProject\obj\Debug\KomodoProjectConsole.csproj.CopyComplete
