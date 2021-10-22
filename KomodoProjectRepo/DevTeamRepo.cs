@@ -27,6 +27,7 @@ namespace KomodoProjectRepo
         {
             DevTeam devTeam = GetDevTeamByID(teamID);
             devTeam.TeamMembers.Add(developer);
+
         }
 
         public DevTeam GetDevTeamByID(int teamID)

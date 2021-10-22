@@ -17,7 +17,7 @@ namespace KomodoInsuranceProject
             SeedData();
             SeedDataTeam();
             MainMenu();
-            
+
         }
         public void SeedData()
         {
@@ -159,6 +159,7 @@ namespace KomodoInsuranceProject
         private static void ShowAllDevelopers()
         {
             Console.Clear();
+            Console.WriteLine("Name |  ID  |  Pluralsight");
             List<Developer> developerList = _newDevRepo.CurrentDevelopers();
             foreach (Developer developer in developerList)
             {
@@ -173,10 +174,10 @@ namespace KomodoInsuranceProject
             Console.WriteLine("Please enter the ID of the developer you would like to remove.");
             List<Developer> developers = _newDevRepo.CurrentDevelopers();
             int count = 0;
-            foreach(Developer developer in developers)
+            foreach (Developer developer in developers)
             {
                 count++;
-                Console.WriteLine($"{count}. {developer.ID}");
+                Console.WriteLine($"{count}. {developer.Name}");
             }
 
             int idYouWantRemoved = int.Parse(Console.ReadLine());
@@ -200,13 +201,13 @@ namespace KomodoInsuranceProject
             Console.WriteLine("Press any key to continue.");
             Console.ReadKey();
         }
-        
+
         private static void ShowAllTeams()
         {
             Console.Clear();
             List<DevTeam> devTeamMembers = _devTeamRepo.CurrentTeams();
 
-            foreach(DevTeam devTeam in devTeamMembers)
+            foreach (DevTeam devTeam in devTeamMembers)
             {
                 DisplayTeams(devTeam);
                 Console.WriteLine("--------------------------------");
@@ -223,10 +224,8 @@ namespace KomodoInsuranceProject
 
         public static void AddDeveloperToTeam()
         {
-            Console.Clear();
-            ShowAllTeams();
-            Console.WriteLine("Which team would you like to add to?");
-
+            DevTeamRepo devTeamRepo = new DevTeamRepo();
+            
         }
     }
 }
