@@ -9,7 +9,7 @@ namespace KomodoProjectClasses
     //Requirements: give POCOs properties, prop tab tab.
     
     //Needs to contain team members, team name, team ID
-    class DevTeam
+    public class DevTeam
     {
         public List<Developer> TeamMembers { get; set; }
         public string TeamName { get; set; }

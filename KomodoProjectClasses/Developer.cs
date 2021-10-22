@@ -12,7 +12,6 @@ namespace KomodoProjectClasses
 
     public class Developer
     {
-
         public string Name { get; set; }
         public int ID { get; set; }
         public bool Pluralsight { get; set; }

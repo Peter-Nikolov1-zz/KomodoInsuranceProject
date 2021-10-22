@@ -15,6 +15,7 @@ namespace KomodoProjectRepo
 
         public void AddDeveloper(Developer developer)
         {
+
             _listOfDevelopers.Add(developer);
         }
 

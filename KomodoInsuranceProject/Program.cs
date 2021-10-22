@@ -29,6 +29,7 @@ namespace KomodoInsuranceProject
 
             ProgramUI program = new ProgramUI();
             program.Run();
+            Console.ReadKey();
             
         }
     }
